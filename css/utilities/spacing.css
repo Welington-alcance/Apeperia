@@ -1,0 +1,8 @@
+
+/*----------- Margin-Top -----------*/
+.mt-md { margin-top: var(--margin-md);}
+.mt-lg { margin-top: var(--margin-lg);}
+.mt-2xl{ margin-top: var(--margin-2xl);}
+
+/*----------- Margin-Botton -----------*/
+.mb-md { margin-bottom: var(--margin-md);}
