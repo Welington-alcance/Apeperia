@@ -10,6 +10,15 @@
     align-items: center;
 }
 
+.destaque__card-wrap{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: var(--space-xl);
+}
+
 .destaque__title{
     color: var(--black-second);
     font-size: var(--font-2xl);
@@ -20,14 +29,15 @@
 .destaque__card{
     display: flex;
     flex-direction: column;
-    align-items: center;
     justify-content: center;
     gap: var(--space-md);
     margin-bottom: var(--space-xl); 
 }
 
 .destaque__img{
-    width: 100%;
+    width: 100vw;
+    max-width: 60rem;
+    box-shadow: 0 0.2rem 1.0rem 0.5rem #00000020;
 }
 
 .destaque__description{

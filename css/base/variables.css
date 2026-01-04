@@ -38,6 +38,7 @@
     --color-bg-destaque: #DFE3F5;
     --color-bg-planos: #F7F4F4;
     --color-bg-footer: #333333;
+    --color-bg-diferencial: #fff;
 
     /* cores dos planos/borda */
     --color-plano-start: #56CCF2;
@@ -66,6 +67,8 @@
     --space-4xl: 8.0rem;
     --space-5xl: 9.6rem;
     --space-6xl: 11.2rem;
+
+    --space-15xl: 25.6rem
 }
 
 /*----------- SPACING CONTAINER -----------*/

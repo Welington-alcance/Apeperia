@@ -8,6 +8,7 @@
 @import url(layout/header.css);
 @import url(layout/hero.css);
 @import url(layout/destaque.css);
+@import url(layout/diferencial.css);
 
 /* Utilities */
 @import url(utilities/flex.css);
