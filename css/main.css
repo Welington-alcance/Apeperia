@@ -9,6 +9,7 @@
 @import url(layout/hero.css);
 @import url(layout/destaque.css);
 @import url(layout/diferencial.css);
+@import url(layout/about.css);
 
 /* Utilities */
 @import url(utilities/flex.css);
