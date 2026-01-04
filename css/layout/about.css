@@ -7,7 +7,7 @@
 .about__wrap{
     display: flex;
     flex-direction: column;
-    padding: 0 var(--space-2xl);
+    padding: 0 var(--space-xl);
 }
 
 .about__title{

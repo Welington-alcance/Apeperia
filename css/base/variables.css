@@ -36,7 +36,7 @@
     --color-bg-header: #00161C;
     --color-bg-hero: #00161C;
     --color-bg-destaque: #DFE3F5;
-    --color-bg-planos: #F7F4F4;
+    --color-bg-planos: #000000;
     --color-bg-footer: #333333;
     --color-bg-diferencial: #fff;
     --color-bg-about: #fff;
@@ -45,6 +45,7 @@
     --color-plano-start: #56CCF2;
     --color-plano-ultra: #B04CD9;
     --color-plano-mega: #E33B3B;
+    --color-plano-border: #DFE3E5;
 
     /* link-destaque */
     --color-link-destaque: #B72E2E;

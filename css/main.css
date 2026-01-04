@@ -10,6 +10,7 @@
 @import url(layout/destaque.css);
 @import url(layout/diferencial.css);
 @import url(layout/about.css);
+@import url(layout/planos.css);
 
 /* Utilities */
 @import url(utilities/flex.css);
