@@ -11,6 +11,7 @@
 @import url(layout/diferencial.css);
 @import url(layout/about.css);
 @import url(layout/planos.css);
+@import url(layout/contato.css);
 
 /* Utilities */
 @import url(utilities/flex.css);

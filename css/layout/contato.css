@@ -1,0 +1,105 @@
+.contato{
+    background-color: var(--color-bg-contato);
+    padding-top: var(--space-xl);
+    font-family: var(--font-secondary);
+}
+
+.wrap__container-contato{
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-md);
+    justify-content: space-evenly;
+}
+
+.wrap__container-text{
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-3xl);
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom: var(--space-lg);
+}
+
+.contato__wrap{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-md);
+}
+
+.contato__title{
+    font-family: var(--font-primary);
+    font-size: var(--font-xl);
+    font-weight: bold;
+    color: var(--color-black-first);
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.contato__text{
+    font-size: var(--space-md);
+    color: var(--color-black-first);
+}
+
+.contato__btn{
+    width: 33rem;
+    padding: var(--space-md) 0;
+    background-color: transparent;
+    border: var(--border-md) solid var(--color-boder-contato);
+    border-radius: var(--radius-md);
+    text-align: center;
+    color: var(--color-text-link-contato);
+    font-size: var(--font-sm);
+}
+
+.institucional__wrap{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-md);
+}
+
+.institucional__title{
+    font-family: var(--font-primary);
+    font-size: var(--font-xl);
+    font-weight: bold;
+    color: var(--color-black-first);
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.institucional__address{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-md);
+}
+
+.institucional__text{
+    font-size: var(--space-md);
+    color: var(--color-black-second);
+}
+
+.institucional__text--size{
+    font-size: var(--space-lg);
+}
+
+.institucional__email{
+    color: var(--color-text-link-email);
+}
+
+.margen-address-institucional{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--space-md);
+    margin: var(--space-md) 0;
+}
+
+.institucional__video{
+    max-width: 60rem;
+    width: 100%;
+}

@@ -25,6 +25,10 @@
 
     --color-primary: #B72E2E;
 
+    /* Cores de texto*/
+    --color-text-link-contato: #4F4C4C;
+    --color-text-link-email: #0084FF;
+
 
     /* Tons de preto */
     --color-black-first: #000;
@@ -40,6 +44,7 @@
     --color-bg-footer: #333333;
     --color-bg-diferencial: #fff;
     --color-bg-about: #fff;
+    --color-bg-contato: #fff;
 
     /* cores dos planos/borda */
     --color-plano-start: #56CCF2;
@@ -53,6 +58,7 @@
     
     /* cores das bordas*/
     --color-border-header: #103D4A;
+    --color-boder-contato: #4F4C4C;
     --color-border-card-planos:  #DFE3E5;
 }
 
