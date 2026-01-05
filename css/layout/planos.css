@@ -29,6 +29,7 @@
     background-color: var(--color-white);
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
     gap: var(--space-md);
     border: var(--border-md) solid var(--color-plano-border);
     border-radius: var(--radius-md);
