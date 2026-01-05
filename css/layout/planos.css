@@ -1,6 +1,7 @@
 .planos{
     background-color: var(--color-bg-planos);
     margin-top: var(--space-xl);
+    padding-bottom: var(--space-md);
     font-family: var(--font-secondary);
 }
 
