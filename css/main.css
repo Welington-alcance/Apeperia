@@ -12,6 +12,7 @@
 @import url(layout/about.css);
 @import url(layout/planos.css);
 @import url(layout/contato.css);
+@import url(layout/footer.css);
 
 /* Utilities */
 @import url(utilities/flex.css);
