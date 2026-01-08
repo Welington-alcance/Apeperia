@@ -23,10 +23,6 @@
     padding-right: var(--space-md);
 }
 
-.footer__logo-link{
-
-}
-
 .footer-sites__wrap{
     display: flex;
     gap: var(--space-md);

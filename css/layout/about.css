@@ -8,23 +8,12 @@
     display: flex;
     flex-direction: column;
     padding: 0 var(--space-xl);
-}
-
-.about__title{
-    font-family: var(--font-primary);
-    font-size: var(--font-xl);
-    font-weight: bold;
-    color: var(--color-black-first);
-    text-transform: uppercase;
-    padding-top: var(--space-sm);
-    text-align: center;
-    margin-bottom: var(--space-xl);
+    gap: var(--space-lg);
 }
 
 .about__text{
     font-size: var(--space-md);
     color: var(--color-black-first);
-    margin-bottom: var(--space-md);
 }
 
 .about__img--wrap{

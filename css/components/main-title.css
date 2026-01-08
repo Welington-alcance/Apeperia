@@ -1,0 +1,14 @@
+.main-title{
+    font-family: var(--font-primary);
+    font-size: var(--font-3xl);
+    font-weight: bold;
+    color: var(--color-black-first);
+}
+
+.main-title--center{
+    text-align: center;
+}
+
+.main-title--white{
+    color: var(--color-white);
+}
