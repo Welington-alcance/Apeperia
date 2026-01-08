@@ -1,0 +1,29 @@
+.main-button{
+    background-color: transparent;
+    border: var(--border-md) solid var(--color-white);
+    border-radius: var(--radius-md);
+    font-family: var(--font-secondary);
+    font-size: var(--font-sm);
+    color: var(--color-white);
+    text-align: center;
+    max-width: var(--space-btn-md);
+    width: 70vw;
+    padding: 15px 0px;
+    display: inline-block;
+}
+
+.main-button--color-primary{
+    border-color: var(--color-primary);
+    color: var(--color-primary);
+}
+
+.main-button--color-black{
+    border-color: var(--color-black-first);
+    color: var(--color-black-first)
+}
+
+.main-button:hover{
+    background-color: var(--color-primary);
+    border-color: var(--color-primary);
+    color: var(--color-white);
+}

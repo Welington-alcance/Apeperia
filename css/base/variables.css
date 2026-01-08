@@ -75,8 +75,12 @@
     --space-4xl: 8.0rem;
     --space-5xl: 9.6rem;
     --space-6xl: 11.2rem;
-
     --space-15xl: 25.6rem
+}
+
+/*----------- SPACING BUTTON -----------*/
+:root{
+    --space-btn-md: 33rem;
 }
 
 /*----------- SPACING CONTAINER -----------*/

@@ -41,17 +41,6 @@
     color: var(--color-black-first);
 }
 
-.contato__btn{
-    width: 33rem;
-    padding: var(--space-md) 0;
-    background-color: transparent;
-    border: var(--border-md) solid var(--color-boder-contato);
-    border-radius: var(--radius-md);
-    text-align: center;
-    color: var(--color-text-link-contato);
-    font-size: var(--font-sm);
-}
-
 .institucional__wrap{
     display: flex;
     flex-direction: column;

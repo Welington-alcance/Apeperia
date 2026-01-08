@@ -24,14 +24,3 @@
     font-size: var(--font-xl);
     line-height: var(--space-xl);
 }
-
-.hero__cta{
-    font-size: var(--font-sm);
-    border: var(--border-md) solid var(--color-white);
-    padding: var(--space-md) var(--space-6xl);
-    border-radius: var(--radius-md);
-}
-
-.hero__cta:hover{
-    background-color: var(--color-primary);
-}

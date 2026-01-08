@@ -16,6 +16,7 @@
 
 /* Components */
 @import url(components/main-title.css);
+@import url(components/main-button.css);
 
 /* Utilities */
 @import url(utilities/flex.css);

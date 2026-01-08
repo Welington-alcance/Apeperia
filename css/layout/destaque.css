@@ -38,16 +38,3 @@
     font-size: var(--font-lg);
     padding: 0 var(--space-md);
 }
-
-.destaque__cta{
-    color: var(--color-link-destaque);
-    font-size: var(--font-md);
-    padding: var(--space-md) var(--space-2xl);
-    border: var(--border-md) solid var(--color-primary);
-    border-radius: var(--radius-md);
-}
-
-.destaque__cta:hover{
-    background-color: var(--color-primary);
-    color: var(--color-white);
-}
